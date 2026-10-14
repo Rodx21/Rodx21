@@ -23,6 +23,7 @@ I build web and mobile apps for small businesses and sports organisations — bo
 | Project | What it is | Stack |
 |---|---|---|
 | **[ClientRadarX](https://github.com/Rodx21/client-radar-x)** | Customer app + admin panel for a real automotive shop: services, quote requests, real-time booking, gallery, CRM pipeline | React Native · Expo · Supabase · TypeScript |
+| **[Basketball Stats Tracker](https://github.com/Rodx21/basketball-stats-demo)** | Real-time stat tracking and live scouting for a basketball team: box scores, advanced stats (eFG%, TS%, PIR), lineups, player grades. Demo version of a tool used by a club this season, with fictional data | Next.js · Supabase · MUI · Vitest |
 | **[DMBB Website](https://github.com/Rodx21/dmbb-website)** | Concept site for a basketball league: fixtures, results, standings, clubs, news and an admin area | Next.js · Supabase · Tailwind |
 | **[Wandered](https://github.com/Rodx21/wandered)** | Travel app with an interactive world map, auth and premium subscription | React Native · Expo · Supabase · RevenueCat · Zustand |
 | **[Quadra App](https://github.com/Rodx21/quadra-app)** | Weekly coach scheduling with one-tap WhatsApp access links and an admin calendar | Next.js · Supabase · Tailwind |
