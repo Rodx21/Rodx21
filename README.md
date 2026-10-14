@@ -49,7 +49,7 @@ I build web and mobile apps for small businesses and sports organisations — bo
 
 ### 💼 Background
 
-Developer based in Dublin, with experience in payments operations (Accenture), legal tech (Avtrain) and technical support (Apple). Law degree from Mackenzie (São Paulo) and Computer Science studies at Griffith College Dublin — which means clear communication, careful requirements and clean, documented code.
+Developer based in Dublin, with experience in payments operations (Accenture), legal tech (Avtrain) and technical support (Apple). Higher Diploma in Computing (Web & Cloud) from Dublin Business School with First Class Honours, plus a Law degree from Mackenzie (São Paulo) — which means clear communication, careful requirements and clean, documented code.
 
 🇧🇷 Portuguese (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (B1)
 
